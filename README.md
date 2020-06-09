@@ -13,7 +13,7 @@ Desafio sobre conceitos do React Native aplicado no bootcamp Gostack
 
 </p>
 
-<img alt="printApp" src="https://github.com/DaniloSouza19/desafio-conceitos-react-native/blob/master/github/print_APP.jpg" />
+<img alt="printApp" src="https://github.com/DaniloSouza19/desafio-conceitos-react-native/blob/master/.github/print_APP.jpg" />
 <br />
 <ul> 
   <li>yarn (baixe as dependências do projeto)</li>
